@@ -16,7 +16,7 @@ TERMUX_PKG_PLATFORM_INDEPENDENT=yes
 #   bc, bzip2, coreutils, diffutils, ed, findutils, gawk, grep, gzip, lzip, lzop, patch, procps, psmisc, sed, tar, xz-utils
 #
 
-TERMUX_PKG_DEPENDS="autoconf, automake, bison, clang, cmake, flex, gperf, libtool, m4, make, ninja, pkg-config, bc, bzip2, coreutils, diffutils, ed, findutils, gawk, grep, gzip, lzip, lzop, patch, procps, psmisc, sed, tar, xz-utils"
+TERMUX_PKG_DEPENDS="autoconf, automake, bison, clang, cmake, flex, gperf, libtool, m4, make, ninja, pkg-config, bc, bzip2, coreutils, diffutils, ed, findutils, gawk, grep, gzip, lzip, lzop, patch, procps, psmisc, sed, tar, util-linux, xz-utils"
 
 # Other packages that may be interesting.
 TERMUX_PKG_SUGGESTS="git, golang, nodejs, patchelf, proot, python-dev, python2-dev, ruby-dev, rust, subversion"
